@@ -1,6 +1,6 @@
 FROM openjdk:8
 
-MAINTAINER Luan luanmedeiros@tjrj.jus.br
+MAINTAINER Luan luan.m.paschoal@gmail.com
 LABEL Pentaho='Server 9.0 com drivers postgres e oracle'
 
 # Init ENV
